@@ -1,0 +1,2 @@
+insprio
+instabot==0.108.0
